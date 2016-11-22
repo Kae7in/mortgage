@@ -1,0 +1,421 @@
+  normal=$600.00, with extra=$600.00 --- diff=$0.00 --- saved=$0.00
+  normal=$599.07, with extra=$598.77 --- diff=$0.30 --- saved=$0.00
+  normal=$598.14, with extra=$597.54 --- diff=$0.60 --- saved=$0.30
+  normal=$597.21, with extra=$596.31 --- diff=$0.90 --- saved=$0.90
+  normal=$596.27, with extra=$595.07 --- diff=$1.21 --- saved=$1.80
+  normal=$595.33, with extra=$593.82 --- diff=$1.51 --- saved=$3.01
+  normal=$594.39, with extra=$592.58 --- diff=$1.81 --- saved=$4.52
+  normal=$593.45, with extra=$591.33 --- diff=$2.12 --- saved=$6.33
+  normal=$592.50, with extra=$590.07 --- diff=$2.43 --- saved=$8.45
+  normal=$591.55, with extra=$588.82 --- diff=$2.73 --- saved=$10.88
+  normal=$590.60, with extra=$587.55 --- diff=$3.04 --- saved=$13.61
+  normal=$589.64, with extra=$586.29 --- diff=$3.35 --- saved=$16.65
+year 1 RoR=0.06% --- $20.00 saved this year --- $16.65 total saved
+------------------------------------------------------------------------
+  normal=$588.68, with extra=$585.02 --- diff=$3.66 --- saved=$20.00
+  normal=$587.72, with extra=$583.75 --- diff=$3.97 --- saved=$23.66
+  normal=$586.75, with extra=$582.47 --- diff=$4.28 --- saved=$27.63
+  normal=$585.79, with extra=$581.19 --- diff=$4.60 --- saved=$31.91
+  normal=$584.82, with extra=$579.91 --- diff=$4.91 --- saved=$36.51
+  normal=$583.84, with extra=$578.62 --- diff=$5.22 --- saved=$41.42
+  normal=$582.87, with extra=$577.33 --- diff=$5.54 --- saved=$46.64
+  normal=$581.89, with extra=$576.03 --- diff=$5.86 --- saved=$52.18
+  normal=$580.90, with extra=$574.73 --- diff=$6.17 --- saved=$58.04
+  normal=$579.92, with extra=$573.43 --- diff=$6.49 --- saved=$64.21
+  normal=$578.93, with extra=$572.12 --- diff=$6.81 --- saved=$70.71
+  normal=$577.94, with extra=$570.81 --- diff=$7.13 --- saved=$77.52
+year 2 RoR=0.18% --- $64.65 saved this year --- $77.52 total saved
+------------------------------------------------------------------------
+  normal=$576.95, with extra=$569.49 --- diff=$7.45 --- saved=$84.65
+  normal=$575.95, with extra=$568.17 --- diff=$7.78 --- saved=$92.10
+  normal=$574.95, with extra=$566.85 --- diff=$8.10 --- saved=$99.88
+  normal=$573.95, with extra=$565.52 --- diff=$8.42 --- saved=$107.98
+  normal=$572.94, with extra=$564.19 --- diff=$8.75 --- saved=$116.40
+  normal=$571.93, with extra=$562.85 --- diff=$9.08 --- saved=$125.15
+  normal=$570.92, with extra=$561.52 --- diff=$9.40 --- saved=$134.23
+  normal=$569.90, with extra=$560.17 --- diff=$9.73 --- saved=$143.63
+  normal=$568.89, with extra=$558.82 --- diff=$10.06 --- saved=$153.36
+  normal=$567.86, with extra=$557.47 --- diff=$10.39 --- saved=$163.42
+  normal=$566.84, with extra=$556.12 --- diff=$10.72 --- saved=$173.81
+  normal=$565.81, with extra=$554.76 --- diff=$11.05 --- saved=$184.53
+year 3 RoR=0.31% --- $110.94 saved this year --- $184.53 total saved
+------------------------------------------------------------------------
+  normal=$564.78, with extra=$553.40 --- diff=$11.39 --- saved=$195.59
+  normal=$563.75, with extra=$552.03 --- diff=$11.72 --- saved=$206.97
+  normal=$562.71, with extra=$550.66 --- diff=$12.06 --- saved=$218.70
+  normal=$561.67, with extra=$549.28 --- diff=$12.39 --- saved=$230.75
+  normal=$560.63, with extra=$547.90 --- diff=$12.73 --- saved=$243.14
+  normal=$559.58, with extra=$546.52 --- diff=$13.07 --- saved=$255.87
+  normal=$558.53, with extra=$545.13 --- diff=$13.41 --- saved=$268.94
+  normal=$557.48, with extra=$543.73 --- diff=$13.75 --- saved=$282.35
+  normal=$556.43, with extra=$542.34 --- diff=$14.09 --- saved=$296.10
+  normal=$555.37, with extra=$540.94 --- diff=$14.43 --- saved=$310.18
+  normal=$554.31, with extra=$539.53 --- diff=$14.77 --- saved=$324.61
+  normal=$553.24, with extra=$538.12 --- diff=$15.12 --- saved=$339.39
+year 4 RoR=0.44% --- $158.92 saved this year --- $339.39 total saved
+------------------------------------------------------------------------
+  normal=$552.17, with extra=$536.71 --- diff=$15.46 --- saved=$354.51
+  normal=$551.10, with extra=$535.29 --- diff=$15.81 --- saved=$369.97
+  normal=$550.03, with extra=$533.87 --- diff=$16.16 --- saved=$385.78
+  normal=$548.95, with extra=$532.44 --- diff=$16.51 --- saved=$401.94
+  normal=$547.87, with extra=$531.01 --- diff=$16.86 --- saved=$418.44
+  normal=$546.78, with extra=$529.58 --- diff=$17.21 --- saved=$435.30
+  normal=$545.70, with extra=$528.14 --- diff=$17.56 --- saved=$452.50
+  normal=$544.61, with extra=$526.70 --- diff=$17.91 --- saved=$470.06
+  normal=$543.51, with extra=$525.25 --- diff=$18.26 --- saved=$487.97
+  normal=$542.41, with extra=$523.80 --- diff=$18.62 --- saved=$506.24
+  normal=$541.31, with extra=$522.34 --- diff=$18.97 --- saved=$524.85
+  normal=$540.21, with extra=$520.88 --- diff=$19.33 --- saved=$543.83
+year 5 RoR=0.58% --- $208.65 saved this year --- $543.83 total saved
+------------------------------------------------------------------------
+  normal=$539.10, with extra=$519.41 --- diff=$19.69 --- saved=$563.16
+  normal=$537.99, with extra=$517.94 --- diff=$20.05 --- saved=$582.85
+  normal=$536.88, with extra=$516.47 --- diff=$20.41 --- saved=$602.90
+  normal=$535.76, with extra=$514.99 --- diff=$20.77 --- saved=$623.31
+  normal=$534.64, with extra=$513.51 --- diff=$21.13 --- saved=$644.08
+  normal=$533.52, with extra=$512.02 --- diff=$21.50 --- saved=$665.21
+  normal=$532.39, with extra=$510.53 --- diff=$21.86 --- saved=$686.70
+  normal=$531.26, with extra=$509.03 --- diff=$22.23 --- saved=$708.56
+  normal=$530.12, with extra=$507.53 --- diff=$22.59 --- saved=$730.79
+  normal=$528.99, with extra=$506.03 --- diff=$22.96 --- saved=$753.38
+  normal=$527.85, with extra=$504.52 --- diff=$23.33 --- saved=$776.34
+  normal=$526.70, with extra=$503.00 --- diff=$23.70 --- saved=$799.67
+year 6 RoR=0.72% --- $260.21 saved this year --- $799.67 total saved
+------------------------------------------------------------------------
+  normal=$525.55, with extra=$501.48 --- diff=$24.07 --- saved=$823.37
+  normal=$524.40, with extra=$499.96 --- diff=$24.44 --- saved=$847.44
+  normal=$523.25, with extra=$498.43 --- diff=$24.82 --- saved=$871.88
+  normal=$522.09, with extra=$496.90 --- diff=$25.19 --- saved=$896.70
+  normal=$520.93, with extra=$495.36 --- diff=$25.57 --- saved=$921.89
+  normal=$519.76, with extra=$493.82 --- diff=$25.94 --- saved=$947.45
+  normal=$518.59, with extra=$492.27 --- diff=$26.32 --- saved=$973.40
+  normal=$517.42, with extra=$490.72 --- diff=$26.70 --- saved=$999.72
+  normal=$516.25, with extra=$489.17 --- diff=$27.08 --- saved=$1026.42
+  normal=$515.07, with extra=$487.61 --- diff=$27.46 --- saved=$1053.50
+  normal=$513.88, with extra=$486.04 --- diff=$27.84 --- saved=$1080.96
+  normal=$512.70, with extra=$484.47 --- diff=$28.23 --- saved=$1108.80
+year 7 RoR=0.87% --- $313.65 saved this year --- $1108.80 total saved
+------------------------------------------------------------------------
+  normal=$511.51, with extra=$482.90 --- diff=$28.61 --- saved=$1137.03
+  normal=$510.32, with extra=$481.32 --- diff=$29.00 --- saved=$1165.64
+  normal=$509.12, with extra=$479.73 --- diff=$29.38 --- saved=$1194.63
+  normal=$507.92, with extra=$478.15 --- diff=$29.77 --- saved=$1224.02
+  normal=$506.71, with extra=$476.55 --- diff=$30.16 --- saved=$1253.79
+  normal=$505.51, with extra=$474.95 --- diff=$30.55 --- saved=$1283.95
+  normal=$504.29, with extra=$473.35 --- diff=$30.94 --- saved=$1314.50
+  normal=$503.08, with extra=$471.74 --- diff=$31.34 --- saved=$1345.45
+  normal=$501.86, with extra=$470.13 --- diff=$31.73 --- saved=$1376.78
+  normal=$500.64, with extra=$468.51 --- diff=$32.13 --- saved=$1408.51
+  normal=$499.41, with extra=$466.89 --- diff=$32.52 --- saved=$1440.64
+  normal=$498.18, with extra=$465.26 --- diff=$32.92 --- saved=$1473.16
+year 8 RoR=1.03% --- $369.05 saved this year --- $1473.16 total saved
+------------------------------------------------------------------------
+  normal=$496.95, with extra=$463.63 --- diff=$33.32 --- saved=$1506.08
+  normal=$495.71, with extra=$461.99 --- diff=$33.72 --- saved=$1539.40
+  normal=$494.47, with extra=$460.35 --- diff=$34.12 --- saved=$1573.12
+  normal=$493.23, with extra=$458.71 --- diff=$34.52 --- saved=$1607.24
+  normal=$491.98, with extra=$457.05 --- diff=$34.93 --- saved=$1641.76
+  normal=$490.73, with extra=$455.40 --- diff=$35.33 --- saved=$1676.68
+  normal=$489.47, with extra=$453.74 --- diff=$35.74 --- saved=$1712.01
+  normal=$488.21, with extra=$452.07 --- diff=$36.14 --- saved=$1747.75
+  normal=$486.95, with extra=$450.40 --- diff=$36.55 --- saved=$1783.89
+  normal=$485.68, with extra=$448.72 --- diff=$36.96 --- saved=$1820.44
+  normal=$484.41, with extra=$447.04 --- diff=$37.37 --- saved=$1857.40
+  normal=$483.14, with extra=$445.35 --- diff=$37.78 --- saved=$1894.78
+year 9 RoR=1.18% --- $426.48 saved this year --- $1894.78 total saved
+------------------------------------------------------------------------
+  normal=$481.86, with extra=$443.66 --- diff=$38.20 --- saved=$1932.56
+  normal=$480.58, with extra=$441.96 --- diff=$38.61 --- saved=$1970.76
+  normal=$479.29, with extra=$440.26 --- diff=$39.03 --- saved=$2009.37
+  normal=$478.00, with extra=$438.55 --- diff=$39.45 --- saved=$2048.40
+  normal=$476.71, with extra=$436.84 --- diff=$39.86 --- saved=$2087.84
+  normal=$475.41, with extra=$435.12 --- diff=$40.28 --- saved=$2127.71
+  normal=$474.11, with extra=$433.40 --- diff=$40.70 --- saved=$2167.99
+  normal=$472.80, with extra=$431.67 --- diff=$41.13 --- saved=$2208.70
+  normal=$471.49, with extra=$429.94 --- diff=$41.55 --- saved=$2249.82
+  normal=$470.18, with extra=$428.20 --- diff=$41.97 --- saved=$2291.37
+  normal=$468.86, with extra=$426.46 --- diff=$42.40 --- saved=$2333.35
+  normal=$467.54, with extra=$424.71 --- diff=$42.83 --- saved=$2375.75
+year 10 RoR=1.35% --- $486.01 saved this year --- $2375.75 total saved
+------------------------------------------------------------------------
+  normal=$466.21, with extra=$422.96 --- diff=$43.26 --- saved=$2418.57
+  normal=$464.88, with extra=$421.20 --- diff=$43.69 --- saved=$2461.83
+  normal=$463.55, with extra=$419.44 --- diff=$44.12 --- saved=$2505.51
+  normal=$462.21, with extra=$417.67 --- diff=$44.55 --- saved=$2549.63
+  normal=$460.87, with extra=$415.89 --- diff=$44.98 --- saved=$2594.18
+  normal=$459.53, with extra=$414.11 --- diff=$45.42 --- saved=$2639.16
+  normal=$458.18, with extra=$412.32 --- diff=$45.85 --- saved=$2684.58
+  normal=$456.83, with extra=$410.53 --- diff=$46.29 --- saved=$2730.43
+  normal=$455.47, with extra=$408.74 --- diff=$46.73 --- saved=$2776.72
+  normal=$454.11, with extra=$406.94 --- diff=$47.17 --- saved=$2823.45
+  normal=$452.74, with extra=$405.13 --- diff=$47.61 --- saved=$2870.62
+  normal=$451.37, with extra=$403.32 --- diff=$48.05 --- saved=$2918.24
+year 11 RoR=1.52% --- $547.72 saved this year --- $2918.24 total saved
+------------------------------------------------------------------------
+  normal=$450.00, with extra=$401.50 --- diff=$48.50 --- saved=$2966.29
+  normal=$448.62, with extra=$399.68 --- diff=$48.94 --- saved=$3014.79
+  normal=$447.24, with extra=$397.85 --- diff=$49.39 --- saved=$3063.73
+  normal=$445.85, with extra=$396.01 --- diff=$49.84 --- saved=$3113.13
+  normal=$444.46, with extra=$394.17 --- diff=$50.29 --- saved=$3162.96
+  normal=$443.07, with extra=$392.33 --- diff=$50.74 --- saved=$3213.25
+  normal=$441.67, with extra=$390.48 --- diff=$51.19 --- saved=$3263.99
+  normal=$440.27, with extra=$388.62 --- diff=$51.65 --- saved=$3315.19
+  normal=$438.86, with extra=$386.76 --- diff=$52.10 --- saved=$3366.83
+  normal=$437.45, with extra=$384.89 --- diff=$52.56 --- saved=$3418.93
+  normal=$436.03, with extra=$383.02 --- diff=$53.01 --- saved=$3471.49
+  normal=$434.61, with extra=$381.14 --- diff=$53.47 --- saved=$3524.50
+year 12 RoR=1.70% --- $611.69 saved this year --- $3524.50 total saved
+------------------------------------------------------------------------
+  normal=$433.19, with extra=$379.25 --- diff=$53.93 --- saved=$3577.98
+  normal=$431.76, with extra=$377.36 --- diff=$54.40 --- saved=$3631.91
+  normal=$430.33, with extra=$375.47 --- diff=$54.86 --- saved=$3686.31
+  normal=$428.89, with extra=$373.57 --- diff=$55.32 --- saved=$3741.16
+  normal=$427.45, with extra=$371.66 --- diff=$55.79 --- saved=$3796.49
+  normal=$426.00, with extra=$369.75 --- diff=$56.26 --- saved=$3852.28
+  normal=$424.55, with extra=$367.83 --- diff=$56.73 --- saved=$3908.53
+  normal=$423.10, with extra=$365.90 --- diff=$57.20 --- saved=$3965.26
+  normal=$421.64, with extra=$363.97 --- diff=$57.67 --- saved=$4022.46
+  normal=$420.18, with extra=$362.04 --- diff=$58.14 --- saved=$4080.12
+  normal=$418.71, with extra=$360.10 --- diff=$58.61 --- saved=$4138.26
+  normal=$417.24, with extra=$358.15 --- diff=$59.09 --- saved=$4196.88
+year 13 RoR=1.88% --- $677.99 saved this year --- $4196.88 total saved
+------------------------------------------------------------------------
+  normal=$415.76, with extra=$356.19 --- diff=$59.57 --- saved=$4255.97
+  normal=$414.28, with extra=$354.23 --- diff=$60.05 --- saved=$4315.54
+  normal=$412.80, with extra=$352.27 --- diff=$60.53 --- saved=$4375.58
+  normal=$411.31, with extra=$350.30 --- diff=$61.01 --- saved=$4436.11
+  normal=$409.81, with extra=$348.32 --- diff=$61.49 --- saved=$4497.12
+  normal=$408.31, with extra=$346.34 --- diff=$61.98 --- saved=$4558.61
+  normal=$406.81, with extra=$344.35 --- diff=$62.46 --- saved=$4620.59
+  normal=$405.30, with extra=$342.36 --- diff=$62.95 --- saved=$4683.05
+  normal=$403.79, with extra=$340.35 --- diff=$63.44 --- saved=$4746.00
+  normal=$402.28, with extra=$338.35 --- diff=$63.93 --- saved=$4809.44
+  normal=$400.75, with extra=$336.33 --- diff=$64.42 --- saved=$4873.36
+  normal=$399.23, with extra=$334.32 --- diff=$64.91 --- saved=$4937.78
+year 14 RoR=2.07% --- $746.73 saved this year --- $4937.78 total saved
+------------------------------------------------------------------------
+  normal=$397.70, with extra=$332.29 --- diff=$65.41 --- saved=$5002.70
+  normal=$396.16, with extra=$330.26 --- diff=$65.90 --- saved=$5068.10
+  normal=$394.62, with extra=$328.22 --- diff=$66.40 --- saved=$5134.01
+  normal=$393.08, with extra=$326.18 --- diff=$66.90 --- saved=$5200.41
+  normal=$391.53, with extra=$324.13 --- diff=$67.40 --- saved=$5267.31
+  normal=$389.98, with extra=$322.07 --- diff=$67.90 --- saved=$5334.71
+  normal=$388.42, with extra=$320.01 --- diff=$68.41 --- saved=$5402.62
+  normal=$386.86, with extra=$317.95 --- diff=$68.91 --- saved=$5471.03
+  normal=$385.29, with extra=$315.87 --- diff=$69.42 --- saved=$5539.94
+  normal=$383.72, with extra=$313.79 --- diff=$69.93 --- saved=$5609.36
+  normal=$382.14, with extra=$311.70 --- diff=$70.44 --- saved=$5679.29
+  normal=$380.56, with extra=$309.61 --- diff=$70.95 --- saved=$5749.73
+year 15 RoR=2.27% --- $817.98 saved this year --- $5749.73 total saved
+------------------------------------------------------------------------
+  normal=$378.97, with extra=$307.51 --- diff=$71.46 --- saved=$5820.67
+  normal=$377.38, with extra=$305.41 --- diff=$71.98 --- saved=$5892.14
+  normal=$375.79, with extra=$303.30 --- diff=$72.49 --- saved=$5964.11
+  normal=$374.19, with extra=$301.18 --- diff=$73.01 --- saved=$6036.61
+  normal=$372.58, with extra=$299.05 --- diff=$73.53 --- saved=$6109.61
+  normal=$370.97, with extra=$296.92 --- diff=$74.05 --- saved=$6183.14
+  normal=$369.36, with extra=$294.79 --- diff=$74.57 --- saved=$6257.19
+  normal=$367.74, with extra=$292.64 --- diff=$75.10 --- saved=$6331.76
+  normal=$366.11, with extra=$290.49 --- diff=$75.62 --- saved=$6406.86
+  normal=$364.48, with extra=$288.34 --- diff=$76.15 --- saved=$6482.48
+  normal=$362.85, with extra=$286.17 --- diff=$76.68 --- saved=$6558.63
+  normal=$361.21, with extra=$284.00 --- diff=$77.21 --- saved=$6635.30
+year 16 RoR=2.48% --- $891.84 saved this year --- $6635.30 total saved
+------------------------------------------------------------------------
+  normal=$359.57, with extra=$281.83 --- diff=$77.74 --- saved=$6712.51
+  normal=$357.92, with extra=$279.65 --- diff=$78.27 --- saved=$6790.25
+  normal=$356.26, with extra=$277.46 --- diff=$78.81 --- saved=$6868.52
+  normal=$354.60, with extra=$275.26 --- diff=$79.34 --- saved=$6947.32
+  normal=$352.94, with extra=$273.06 --- diff=$79.88 --- saved=$7026.67
+  normal=$351.27, with extra=$270.85 --- diff=$80.42 --- saved=$7106.55
+  normal=$349.60, with extra=$268.63 --- diff=$80.96 --- saved=$7186.97
+  normal=$347.92, with extra=$266.41 --- diff=$81.50 --- saved=$7267.93
+  normal=$346.23, with extra=$264.18 --- diff=$82.05 --- saved=$7349.43
+  normal=$344.54, with extra=$261.95 --- diff=$82.59 --- saved=$7431.48
+  normal=$342.85, with extra=$259.71 --- diff=$83.14 --- saved=$7514.07
+  normal=$341.15, with extra=$257.46 --- diff=$83.69 --- saved=$7597.21
+year 17 RoR=2.69% --- $968.40 saved this year --- $7597.21 total saved
+------------------------------------------------------------------------
+  normal=$339.45, with extra=$255.20 --- diff=$84.24 --- saved=$7680.91
+  normal=$337.74, with extra=$252.94 --- diff=$84.80 --- saved=$7765.15
+  normal=$336.02, with extra=$250.67 --- diff=$85.35 --- saved=$7849.94
+  normal=$334.30, with extra=$248.40 --- diff=$85.91 --- saved=$7935.29
+  normal=$332.58, with extra=$246.11 --- diff=$86.46 --- saved=$8021.20
+  normal=$330.85, with extra=$243.82 --- diff=$87.02 --- saved=$8107.66
+  normal=$329.11, with extra=$241.53 --- diff=$87.58 --- saved=$8194.69
+  normal=$327.37, with extra=$239.22 --- diff=$88.15 --- saved=$8282.27
+  normal=$325.62, with extra=$236.91 --- diff=$88.71 --- saved=$8370.42
+  normal=$323.87, with extra=$234.60 --- diff=$89.28 --- saved=$8459.13
+  normal=$322.12, with extra=$232.27 --- diff=$89.85 --- saved=$8548.41
+  normal=$320.36, with extra=$229.94 --- diff=$90.41 --- saved=$8638.25
+year 18 RoR=2.91% --- $1047.76 saved this year --- $8638.25 total saved
+------------------------------------------------------------------------
+  normal=$318.59, with extra=$227.60 --- diff=$90.99 --- saved=$8728.67
+  normal=$316.82, with extra=$225.26 --- diff=$91.56 --- saved=$8819.65
+  normal=$315.04, with extra=$222.91 --- diff=$92.13 --- saved=$8911.21
+  normal=$313.26, with extra=$220.55 --- diff=$92.71 --- saved=$9003.35
+  normal=$311.47, with extra=$218.18 --- diff=$93.29 --- saved=$9096.06
+  normal=$309.67, with extra=$215.81 --- diff=$93.87 --- saved=$9189.34
+  normal=$307.88, with extra=$213.43 --- diff=$94.45 --- saved=$9283.21
+  normal=$306.07, with extra=$211.04 --- diff=$95.03 --- saved=$9377.66
+  normal=$304.26, with extra=$208.64 --- diff=$95.62 --- saved=$9472.69
+  normal=$302.45, with extra=$206.24 --- diff=$96.20 --- saved=$9568.31
+  normal=$300.63, with extra=$203.83 --- diff=$96.79 --- saved=$9664.52
+  normal=$298.80, with extra=$201.42 --- diff=$97.38 --- saved=$9761.31
+year 19 RoR=3.14% --- $1130.03 saved this year --- $9761.31 total saved
+------------------------------------------------------------------------
+  normal=$296.97, with extra=$198.99 --- diff=$97.98 --- saved=$9858.69
+  normal=$295.13, with extra=$196.56 --- diff=$98.57 --- saved=$9956.67
+  normal=$293.29, with extra=$194.12 --- diff=$99.17 --- saved=$10055.24
+  normal=$291.44, with extra=$191.68 --- diff=$99.76 --- saved=$10154.41
+  normal=$289.59, with extra=$189.23 --- diff=$100.36 --- saved=$10254.17
+  normal=$287.73, with extra=$186.77 --- diff=$100.96 --- saved=$10354.53
+  normal=$285.86, with extra=$184.30 --- diff=$101.57 --- saved=$10455.50
+  normal=$283.99, with extra=$181.82 --- diff=$102.17 --- saved=$10557.06
+  normal=$282.12, with extra=$179.34 --- diff=$102.78 --- saved=$10659.23
+  normal=$280.24, with extra=$176.85 --- diff=$103.39 --- saved=$10762.01
+  normal=$278.35, with extra=$174.35 --- diff=$104.00 --- saved=$10865.40
+  normal=$276.46, with extra=$171.85 --- diff=$104.61 --- saved=$10969.39
+year 20 RoR=3.38% --- $1215.31 saved this year --- $10969.39 total saved
+------------------------------------------------------------------------
+  normal=$274.56, with extra=$169.34 --- diff=$105.22 --- saved=$11074.00
+  normal=$272.65, with extra=$166.82 --- diff=$105.84 --- saved=$11179.22
+  normal=$270.74, with extra=$164.29 --- diff=$106.46 --- saved=$11285.06
+  normal=$268.83, with extra=$161.75 --- diff=$107.07 --- saved=$11391.52
+  normal=$266.91, with extra=$159.21 --- diff=$107.70 --- saved=$11498.59
+  normal=$264.98, with extra=$156.66 --- diff=$108.32 --- saved=$11606.29
+  normal=$263.05, with extra=$154.10 --- diff=$108.94 --- saved=$11714.61
+  normal=$261.11, with extra=$151.54 --- diff=$109.57 --- saved=$11823.55
+  normal=$259.16, with extra=$148.96 --- diff=$110.20 --- saved=$11933.12
+  normal=$257.21, with extra=$146.38 --- diff=$110.83 --- saved=$12043.32
+  normal=$255.26, with extra=$143.79 --- diff=$111.46 --- saved=$12154.15
+  normal=$253.29, with extra=$141.20 --- diff=$112.10 --- saved=$12265.61
+year 21 RoR=3.62% --- $1303.71 saved this year --- $12265.61 total saved
+------------------------------------------------------------------------
+  normal=$251.33, with extra=$138.59 --- diff=$112.73 --- saved=$12377.71
+  normal=$249.35, with extra=$135.98 --- diff=$113.37 --- saved=$12490.44
+  normal=$247.37, with extra=$133.36 --- diff=$114.01 --- saved=$12603.81
+  normal=$245.39, with extra=$130.73 --- diff=$114.65 --- saved=$12717.82
+  normal=$243.40, with extra=$128.10 --- diff=$115.30 --- saved=$12832.48
+  normal=$241.40, with extra=$125.45 --- diff=$115.94 --- saved=$12947.78
+  normal=$239.39, with extra=$122.80 --- diff=$116.59 --- saved=$13063.72
+  normal=$237.38, with extra=$120.14 --- diff=$117.24 --- saved=$13180.31
+  normal=$235.37, with extra=$117.48 --- diff=$117.89 --- saved=$13297.55
+  normal=$233.35, with extra=$114.80 --- diff=$118.55 --- saved=$13415.44
+  normal=$231.32, with extra=$112.12 --- diff=$119.20 --- saved=$13533.99
+  normal=$229.29, with extra=$109.43 --- diff=$119.86 --- saved=$13653.19
+year 22 RoR=3.88% --- $1395.34 saved this year --- $13653.19 total saved
+------------------------------------------------------------------------
+  normal=$227.25, with extra=$106.73 --- diff=$120.52 --- saved=$13773.05
+  normal=$225.20, with extra=$104.02 --- diff=$121.18 --- saved=$13893.57
+  normal=$223.15, with extra=$101.30 --- diff=$121.84 --- saved=$14014.75
+  normal=$221.09, with extra=$98.58 --- diff=$122.51 --- saved=$14136.60
+  normal=$219.02, with extra=$95.85 --- diff=$123.18 --- saved=$14259.11
+  normal=$216.95, with extra=$93.11 --- diff=$123.85 --- saved=$14382.28
+  normal=$214.88, with extra=$90.36 --- diff=$124.52 --- saved=$14506.13
+  normal=$212.79, with extra=$87.60 --- diff=$125.19 --- saved=$14630.65
+  normal=$210.70, with extra=$84.84 --- diff=$125.87 --- saved=$14755.84
+  normal=$208.61, with extra=$82.06 --- diff=$126.55 --- saved=$14881.71
+  normal=$206.51, with extra=$79.28 --- diff=$127.22 --- saved=$15008.25
+  normal=$204.40, with extra=$76.49 --- diff=$127.91 --- saved=$15135.48
+year 23 RoR=4.14% --- $1490.33 saved this year --- $15135.48 total saved
+------------------------------------------------------------------------
+  normal=$202.28, with extra=$73.69 --- diff=$128.59 --- saved=$15263.38
+  normal=$200.16, with extra=$70.89 --- diff=$129.28 --- saved=$15391.97
+  normal=$198.03, with extra=$68.07 --- diff=$129.96 --- saved=$15521.25
+  normal=$195.90, with extra=$65.25 --- diff=$130.65 --- saved=$15651.21
+  normal=$193.76, with extra=$62.41 --- diff=$131.35 --- saved=$15781.87
+  normal=$191.61, with extra=$59.57 --- diff=$132.04 --- saved=$15913.21
+  normal=$189.46, with extra=$56.72 --- diff=$132.74 --- saved=$16045.25
+  normal=$187.30, with extra=$53.87 --- diff=$133.43 --- saved=$16177.99
+  normal=$185.14, with extra=$51.00 --- diff=$134.13 --- saved=$16311.42
+  normal=$182.96, with extra=$48.13 --- diff=$134.84 --- saved=$16445.56
+  normal=$180.78, with extra=$45.24 --- diff=$135.54 --- saved=$16580.39
+  normal=$178.60, with extra=$42.35 --- diff=$136.25 --- saved=$16715.93
+year 24 RoR=4.41% --- $1588.80 saved this year --- $16715.93 total saved
+------------------------------------------------------------------------
+  normal=$176.41, with extra=$39.45 --- diff=$136.96 --- saved=$16852.18
+  normal=$174.21, with extra=$36.54 --- diff=$137.67 --- saved=$16989.14
+  normal=$172.00, with extra=$33.62 --- diff=$138.38 --- saved=$17126.81
+  normal=$169.79, with extra=$30.69 --- diff=$139.10 --- saved=$17265.19
+  normal=$167.57, with extra=$27.76 --- diff=$139.81 --- saved=$17404.28
+  normal=$165.35, with extra=$24.81 --- diff=$140.53 --- saved=$17544.09
+  normal=$163.11, with extra=$21.86 --- diff=$141.25 --- saved=$17684.63
+  normal=$160.88, with extra=$18.90 --- diff=$141.98 --- saved=$17825.88
+  normal=$158.63, with extra=$15.93 --- diff=$142.70 --- saved=$17967.86
+  normal=$156.38, with extra=$12.95 --- diff=$143.43 --- saved=$18110.56
+  normal=$154.12, with extra=$9.96 --- diff=$144.16 --- saved=$18253.99
+  normal=$151.85, with extra=$6.96 --- diff=$144.89 --- saved=$18398.16
+year 25 RoR=4.70% --- $1690.87 saved this year --- $18398.16 total saved
+------------------------------------------------------------------------
+  normal=$149.58, with extra=$3.95 --- diff=$145.63 --- saved=$18543.05
+  normal=$147.30, with extra=$0.94 --- diff=$146.37 --- saved=$18688.68
+  normal=$145.02, with extra=$0.00 --- diff=$145.02 --- saved=$18835.05
+  normal=$142.72, with extra=$0.00 --- diff=$142.72 --- saved=$18980.06
+  normal=$140.42, with extra=$0.00 --- diff=$140.42 --- saved=$19122.79
+  normal=$138.12, with extra=$0.00 --- diff=$138.12 --- saved=$19263.21
+  normal=$135.80, with extra=$0.00 --- diff=$135.80 --- saved=$19401.33
+  normal=$133.48, with extra=$0.00 --- diff=$133.48 --- saved=$19537.14
+  normal=$131.16, with extra=$0.00 --- diff=$131.16 --- saved=$19670.62
+  normal=$128.82, with extra=$0.00 --- diff=$128.82 --- saved=$19801.78
+  normal=$126.48, with extra=$0.00 --- diff=$126.48 --- saved=$19930.60
+  normal=$124.13, with extra=$0.00 --- diff=$124.13 --- saved=$20057.08
+year 26 RoR=4.55% --- $1638.16 saved this year --- $20057.08 total saved
+------------------------------------------------------------------------
+  normal=$121.78, with extra=$0.00 --- diff=$121.78 --- saved=$20181.21
+  normal=$119.41, with extra=$0.00 --- diff=$119.41 --- saved=$20302.99
+  normal=$117.05, with extra=$0.00 --- diff=$117.05 --- saved=$20422.41
+  normal=$114.67, with extra=$0.00 --- diff=$114.67 --- saved=$20539.45
+  normal=$112.28, with extra=$0.00 --- diff=$112.28 --- saved=$20654.12
+  normal=$109.89, with extra=$0.00 --- diff=$109.89 --- saved=$20766.40
+  normal=$107.50, with extra=$0.00 --- diff=$107.50 --- saved=$20876.30
+  normal=$105.09, with extra=$0.00 --- diff=$105.09 --- saved=$20983.79
+  normal=$102.68, with extra=$0.00 --- diff=$102.68 --- saved=$21088.88
+  normal=$100.26, with extra=$0.00 --- diff=$100.26 --- saved=$21191.56
+  normal=$97.83, with extra=$0.00 --- diff=$97.83 --- saved=$21291.82
+  normal=$95.40, with extra=$0.00 --- diff=$95.40 --- saved=$21389.65
+year 27 RoR=3.62% --- $1303.83 saved this year --- $21389.65 total saved
+------------------------------------------------------------------------
+  normal=$92.95, with extra=$0.00 --- diff=$92.95 --- saved=$21485.04
+  normal=$90.51, with extra=$0.00 --- diff=$90.51 --- saved=$21578.00
+  normal=$88.05, with extra=$0.00 --- diff=$88.05 --- saved=$21668.50
+  normal=$85.59, with extra=$0.00 --- diff=$85.59 --- saved=$21756.55
+  normal=$83.11, with extra=$0.00 --- diff=$83.11 --- saved=$21842.14
+  normal=$80.64, with extra=$0.00 --- diff=$80.64 --- saved=$21925.25
+  normal=$78.15, with extra=$0.00 --- diff=$78.15 --- saved=$22005.89
+  normal=$75.66, with extra=$0.00 --- diff=$75.66 --- saved=$22084.04
+  normal=$73.16, with extra=$0.00 --- diff=$73.16 --- saved=$22159.69
+  normal=$70.65, with extra=$0.00 --- diff=$70.65 --- saved=$22232.85
+  normal=$68.13, with extra=$0.00 --- diff=$68.13 --- saved=$22303.49
+  normal=$65.61, with extra=$0.00 --- diff=$65.61 --- saved=$22371.63
+year 28 RoR=2.64% --- $952.19 saved this year --- $22371.63 total saved
+------------------------------------------------------------------------
+  normal=$63.08, with extra=$0.00 --- diff=$63.08 --- saved=$22437.23
+  normal=$60.54, with extra=$0.00 --- diff=$60.54 --- saved=$22500.31
+  normal=$57.99, with extra=$0.00 --- diff=$57.99 --- saved=$22560.85
+  normal=$55.44, with extra=$0.00 --- diff=$55.44 --- saved=$22618.84
+  normal=$52.88, with extra=$0.00 --- diff=$52.88 --- saved=$22674.28
+  normal=$50.31, with extra=$0.00 --- diff=$50.31 --- saved=$22727.15
+  normal=$47.73, with extra=$0.00 --- diff=$47.73 --- saved=$22777.46
+  normal=$45.15, with extra=$0.00 --- diff=$45.15 --- saved=$22825.19
+  normal=$42.55, with extra=$0.00 --- diff=$42.55 --- saved=$22870.33
+  normal=$39.95, with extra=$0.00 --- diff=$39.95 --- saved=$22912.89
+  normal=$37.34, with extra=$0.00 --- diff=$37.34 --- saved=$22952.84
+  normal=$34.73, with extra=$0.00 --- diff=$34.73 --- saved=$22990.18
+year 29 RoR=1.63% --- $587.68 saved this year --- $22990.18 total saved
+------------------------------------------------------------------------
+  normal=$32.10, with extra=$0.00 --- diff=$32.10 --- saved=$23024.91
+  normal=$29.47, with extra=$0.00 --- diff=$29.47 --- saved=$23057.02
+  normal=$26.83, with extra=$0.00 --- diff=$26.83 --- saved=$23086.49
+  normal=$24.19, with extra=$0.00 --- diff=$24.19 --- saved=$23113.33
+  normal=$21.53, with extra=$0.00 --- diff=$21.53 --- saved=$23137.51
+  normal=$18.87, with extra=$0.00 --- diff=$18.87 --- saved=$23159.04
+  normal=$16.20, with extra=$0.00 --- diff=$16.20 --- saved=$23177.91
+  normal=$13.52, with extra=$0.00 --- diff=$13.52 --- saved=$23194.11
+  normal=$10.83, with extra=$0.00 --- diff=$10.83 --- saved=$23207.63
+  normal=$8.13, with extra=$0.00 --- diff=$8.13 --- saved=$23218.46
+  normal=$5.43, with extra=$0.00 --- diff=$5.43 --- saved=$23226.59
+  normal=$2.72, with extra=$0.00 --- diff=$2.72 --- saved=$23232.02
+year 30 RoR=0.58% --- $209.83 saved this year --- $23232.02 total saved
+------------------------------------------------------------------------
+4.02695302537
