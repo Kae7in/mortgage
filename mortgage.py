@@ -92,23 +92,20 @@ if __name__ == "__main__":
     m = Mortgage(200000, 3.6 , 360)
 
     per_month = 100
-    total_rate = 0
     diff_total = 0
     saved = 0
     for i in range(1, 31):  # Years
         for j in range(1, 13):  # Months
             period = (i-1)*12 + j
-            cumulative_interest_1 = m.interest_for_range(1, period)
-            cumulative_interest_2 = m.interest_for_range(1, period, extra=per_month)
+            cumulative_interest_1 = m.interest_for_range(1, period+1)
+            cumulative_interest_2 = m.interest_for_range(1, period+1, extra=per_month)
             saved = cumulative_interest_1 - cumulative_interest_2
 
             interest_1 = m.interest(period)
             interest_2 = m.interest(period, extra=per_month)
-            print('  normal=${:04.2f}'.format(interest_1) + ', with extra=${:04.2f}'.format(interest_2) + ' --- ' + 'diff=${:04.2f}'.format(interest_1-interest_2) + ' --- ' + 'saved=${:04.2f}'.format(saved))
+            print('{}  normal=${:04.2f}'.format(period, interest_1) + ', with extra=${:04.2f}'.format(interest_2) + ' --- ' + 'diff=${:04.2f}'.format(interest_1-interest_2) + ' --- ' + 'total saved=${:04.2f}'.format(saved))
             
             diff_total += (interest_1 - interest_2)
-        print('year ' + str(i) + ' RoR={:04.2f}'.format((diff_total / (per_month*12*30))*100.0) + '% --- ${:04.2f} saved this year --- ${:04.2f}'.format(diff_total, saved) + ' total saved')
-        print('------------------------------------------------------------------------')
-        total_rate += ((diff_total / (per_month*12*30)) * 100.0)/i
+        print('END OF YEAR ' + str(i) + ' --- ${:04.2f} saved this year --- ${:04.2f}'.format(diff_total, saved) + ' total saved')
+        print('-------------------------------------------------------------------------')
         diff_total = 0
-    print(total_rate)
